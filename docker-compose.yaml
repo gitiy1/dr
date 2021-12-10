@@ -1,5 +1,5 @@
 services:
-  bthua:
+  dr:
     build: .
     ports:
       - 3030:80
